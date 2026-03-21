@@ -1,0 +1,12 @@
+**/.DS_Store
+**/._*
+**/__MACOSX/
+.pio/
+.vscode/
+archive/
+lib/
+**/*.bak
+**/*.dwl
+**/*.dwl2
+**/*.dbk
+library.properties
